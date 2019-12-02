@@ -1,2 +1,1 @@
-# ImageUploader
-Experience working with local storage
+https://poiarko.github.io/ImageUploader/
